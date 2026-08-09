@@ -131,4 +131,4 @@ Navigate to `http://localhost:3000`.
 ---
 
 ## 🛡️ License & Acknowledgements
-Developed as part of SIH (Smart India Hackathon) by Team Gradient Ascent.
+Developed as part of SIH (Smart India Hackathon) 2025 by Team Gradient Ascent.
